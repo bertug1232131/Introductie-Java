@@ -1,0 +1,11 @@
+size(800, 800);
+background(0,0,0);
+fill(255, 0, 255);
+textSize(20);
+text("Dit is een test bericht3", 300, 200);
+fill(0, 255, 255);
+textSize(20);
+text("Dit is een test bericht2", 200, 100);
+fill(255, 255, 255);
+textSize(20);
+text("Dit is een test bericht1", 100, 50);
