@@ -1,0 +1,13 @@
+size(800,800);
+fill(255,0,0);
+noStroke();
+rect(100,50, 100, 50);
+fill(255,255,255);
+noStroke();
+rect(100,100, 100, 50);
+fill(0,0,255);
+noStroke();
+rect(100,150, 100, 50);
+stroke(0,0,0);
+strokeWeight(7);
+line(100,51,100,400);
